@@ -15,14 +15,6 @@ int main()
 
     cout<<"\nEnter favorite movie ";
     cin>>favoritemovie;
-    
-
-
-    
-
     cout<<endl;
-
-
-    
 
 }
